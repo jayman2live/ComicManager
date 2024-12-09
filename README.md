@@ -5,7 +5,7 @@ This project is a comic collection manager that allows users to manage, borrow, 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/comic-collection-manager.git
+   git clone (https://github.com/jayman2live/ComicManager.git)
 
 ## Usage Instructions
 
